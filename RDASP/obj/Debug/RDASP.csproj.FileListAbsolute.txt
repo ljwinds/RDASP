@@ -1,0 +1,7 @@
+c:\users\legion\documents\visual studio 2015\Projects\RDASP\RDASP\bin\Debug\RDASP.exe.config
+C:\Users\Legion\Documents\Visual Studio 2015\Projects\RDASP\RDASP\bin\Debug\RDASP.exe
+C:\Users\Legion\Documents\Visual Studio 2015\Projects\RDASP\RDASP\bin\Debug\RDASP.pdb
+C:\Users\Legion\Documents\Visual Studio 2015\Projects\RDASP\RDASP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Legion\Documents\Visual Studio 2015\Projects\RDASP\RDASP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Legion\Documents\Visual Studio 2015\Projects\RDASP\RDASP\obj\Debug\RDASP.exe
+C:\Users\Legion\Documents\Visual Studio 2015\Projects\RDASP\RDASP\obj\Debug\RDASP.pdb
